@@ -1,4 +1,4 @@
-import 'package:tugas_kuliah/tugas_kuliah.dart';
+import 'package:tugas_mobile/tugas_mobile.dart';
 import 'package:test/test.dart';
 
 void main() {
